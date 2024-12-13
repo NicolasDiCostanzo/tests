@@ -9,5 +9,8 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "@vitejs/create-app": "^2.5.2"
+  }
 }

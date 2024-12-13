@@ -1,0 +1,12 @@
+{
+    "folder-color.pathColors": [
+        {
+            "folderPath": "tests\\server\\",
+            "color": "foldercolorizer.color_ff9966"
+        },
+        {
+            "folderPath": "tests\\vue-school-travel-app\\",
+            "color": "foldercolorizer.color_00cc66"
+        }
+    ]
+}
